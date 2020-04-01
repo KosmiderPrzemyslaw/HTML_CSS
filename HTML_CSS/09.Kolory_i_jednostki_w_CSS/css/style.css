@@ -1,0 +1,12 @@
+.container{
+  width: 200px;
+  background-color: yellow;
+}
+.first{
+  width: 50%;
+  background-color:green;
+}
+.second{
+  width: 10em;
+  background-color: brown;
+}

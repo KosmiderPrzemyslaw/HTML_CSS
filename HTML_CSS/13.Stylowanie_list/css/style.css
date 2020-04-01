@@ -1,0 +1,12 @@
+.squareList{
+  list-style-type: square;
+
+}
+.menuList{
+  color: #116493;
+  }
+nav ul li {
+  float: left;
+  list-style-type: none;
+  width: 100px;
+}
